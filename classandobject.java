@@ -23,7 +23,7 @@ public class classandobject {
                     stop = true;
                     break;
                 default:
-                    System.out.println("Invalid choice.Please enter again: ");
+                    System.out.println("invalid choice.please enter again: ");
             }
         }
     }
