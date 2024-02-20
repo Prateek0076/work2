@@ -6,7 +6,7 @@ public class classandobject {
     public static void main(String[] args) {
         boolean stop = false;
         while (!stop) {
-            System.out.println("Choose an option:");
+            System.out.println("choose an option:");
             System.out.println("1.create user");
             System.out.println("2.show users");
             System.out.println("3.stop");
